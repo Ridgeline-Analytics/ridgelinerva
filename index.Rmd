@@ -6,7 +6,7 @@ links:
   #   url: "https://github.com/Ridgeline-Analytics/"
   - label: Meet Dustin
     url: "dustin.html"
-  - label: Email Dustin and Matt
+  - label: Email Dustin & Matt
     url: "mailto:dustin@ridgelinerva.com;matt@ridgelinerva.com"
   - label: Meet Matt
     url: "matt.html"
