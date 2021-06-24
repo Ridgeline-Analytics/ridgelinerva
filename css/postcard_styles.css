@@ -1,0 +1,17 @@
+body{
+  background-color: #d4c290;  
+}
+ 
+p-2.h1{
+  color: #1e4a1a;
+}
+
+.list-inline{
+  padding-left:0;
+  list-style:none;
+  display: flex;
+  justify-content: center;
+  
+}
+.list-inline-item{display:inline-block}
+.list-inline-item:not(:last-child){margin-right:.5rem}
