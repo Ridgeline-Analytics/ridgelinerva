@@ -1,0 +1,46 @@
+---
+title: "Dustin Landers"
+image: "../images/dustin.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/mbleary/"
+  - label: GitHub
+    url: "https://github.com/mleary"
+  - label: Email
+    url: "mailto:email@email.com"
+output:
+  postcards::trestles:
+    css: "../css/postcard_styles.css"
+---
+
+<div id="icon-list">
+  <ul class="list-inline">
+    <li class="list-inline-item">
+      <a href="../index.html">
+        <button type="button" class="btn btn-outline-dark mb-2">
+          Return to homepage
+        </button>
+      </a>
+    </li>
+  </ul>
+</div> 
+  
+## Bio
+
+Dustin studied social science and statistics and found his way in to the data science field after working in plant genetics for a little while. He considers himself a problem-solving enthusiast and a pro debugger. He may be a little old-fashioned, but he still believe we can make the world a better place through a gentle application of curiosity and a humble respect for the truth.
+
+</br></br>
+
+## Education
+
+**University of North Carolina Wilmington** | Wilmington, NC
+
+Graduate Certificate, Applied Statistics
+
+**Appalachian State University** | Boone, NC
+
+B.S., Political Science
+
+## Tech Skills
+
+R | Python | SQL | Git | Azure

@@ -1,0 +1,39 @@
+---
+title: "Ridgeline Analytics LLC"
+image: "images/hexsticker.png"
+links:
+  # - label: See our open-source projects
+  #   url: "https://github.com/Ridgeline-Analytics/"
+  - label: Meet Dustin
+    url: "content/dustin.html"
+  - label: Email Dustin & Matt
+    url: "mailto:dustin@ridgelinerva.com;matt@ridgelinerva.com"
+  - label: Meet Matt
+    url: "content/matt.html"
+
+  # - label: Check out our R tutorials
+  #   url: "https://youtube.com"
+output:
+  postcards::trestles
+---
+ 
+## Who we are
+
+We are a small analytics and data science firm based out of Richmond, VA. But let's be honest, we are serious nerds. Serious nerds who want to help you gain insights and solve problems.
+
+</br>
+
+## What we do
+
+We are data scientists! We believe in the cross-disciplinary approach, meaning we have learned a lot about a lot of different things. 
+
+ We analyze data and build machine learning models. We write reports but also deploy machine learning models to the cloud. Not sure what all that means?  Don't worry, that's what we are here for.  
+
+**This makes us great for helping companies who aren't quite ready to hire data scientists full-time, but want to do more with data.**
+
+</br>
+
+## How to get started
+
+Click the button to the left and send us an email.  Or contact us at dustin@rdigelineRVA.com or matt@ridgelineRVA.com.
+
