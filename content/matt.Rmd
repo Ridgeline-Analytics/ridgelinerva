@@ -1,6 +1,6 @@
 ---
 title: "Matt Leary"
-image: "images/matt.jpg"
+image: "../images/matt.jpg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/mbleary/"
@@ -10,13 +10,13 @@ links:
     url: "mailto:email@email.com"
 output:
   postcards::trestles:
-    css: "css/postcard_styles.css"
+    css: "../css/postcard_styles.css"
 ---
 
 <div id="icon-list">
   <ul class="list-inline">
     <li class="list-inline-item">
-      <a href="index.html">
+      <a href="../index.html">
         <button type="button" class="btn btn-outline-dark mb-2">
           Return to homepage
         </button>
@@ -24,7 +24,11 @@ output:
     </li>
   </ul>
 </div> 
-  
+
+</br>
+
+
+
 ## Bio
 
 After 10+ years working in public relations / government services, I moved into 
@@ -32,7 +36,7 @@ data science. I really enjoy working with data to find and deliver insights,
 solve business problems, and build tools that help people work more efficiently. 
 
 I largely work in R and Python, but dabble with some front end development like
-HTML and CSS. Secretly, I also enjoy using Excel.
+HTML and CSS. Secretly, I also enjoy using Excel. 
 
 </br>
 
@@ -42,7 +46,7 @@ HTML and CSS. Secretly, I also enjoy using Excel.
 
 M.B.A.  &  M.S., Decision Analytics  
 
-</br>
+
 **Campbell University** | Buies Creak, NC
 
 B.S., Political Science
