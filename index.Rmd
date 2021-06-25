@@ -19,7 +19,7 @@ output:
  
 ## Who we are
 
-We are a small analytics and data science firm based out of Richmond, VA. But let's be honest, we are serious nerds. Serious nerds who want to help you with your data science projects.
+We are a small analytics and data science firm based out of Richmond, VA. But let's be honest, we are serious nerds. Serious nerds who want to help you gain insights and solve problems.
 
 </br>
 
@@ -27,14 +27,13 @@ We are a small analytics and data science firm based out of Richmond, VA. But le
 
 We are data scientists! We believe in the cross-disciplinary approach, meaning we have learned a lot about a lot of different things. 
 
+ We analyze data and build machine learning models. We write reports but also deploy machine learning models to the cloud. Not sure what all that means?  Don't worry, that's what we are here for.  
+
 **This makes us great for helping companies who aren't quite ready to hire data scientists full-time, but want to do more with data.**
-
-We work with databases, APIs, free text, SQL, R, Python, Git, etc. We analyze data and build machine learning models. We write reports but also deploy machine learning models to the cloud. Not sure what all that means?  Don't worry, that's what we are here for.  
-
-**Ultimately, we like to solve business problems with a mix of data and business understanding.**
 
 </br>
 
 ## How to get started
 
-Click the button to the left and send us an email. We will get back to you and see if we are good fit to solve your problem.
+Click the button to the left and send us an email.  Or contact us at dustin@rdigelineRVA.com or matt@ridgelineRVA.com.
+
