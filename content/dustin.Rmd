@@ -27,22 +27,17 @@ output:
   
 ## Bio
 
-Matt transitioned into data science after spending 10+ years working in public
-relations / government services. 
+Dustin studied social science and statistics and found his way in to the data science field after working in plant genetics for a little while. He considers himself a problem-solving enthusiast and a pro debugger. He may be a little old-fashioned, but he still believe we can make the world a better place through a gentle application of curiosity and a humble respect for the truth.
 
 </br></br>
 
 ## Education
 
-**Virginia Commonwealth University** | Richmond, VA
+**University of North Carolina Wilmington** | Wilmington, NC
 
-M.S., Decision Analytics 
+Graduate Certificate, Applied Statistics
 
-**Virginia Commonwealth University** | Richmond, VA
-
-M.B.A.
-
-**Campbell University** | Buies Creak, NC
+**Appalachian State University** | Boone, NC
 
 B.S., Political Science
 
