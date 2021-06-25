@@ -2,8 +2,6 @@
 title: "Matt Leary"
 image: "../images/matt.jpg"
 links:
-  - label: LinkedIn
-    url: "https://www.linkedin.com/in/mbleary/"
   - label: GitHub
     url: "https://github.com/mleary"
   - label: Email
