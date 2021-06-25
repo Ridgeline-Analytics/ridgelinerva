@@ -41,6 +41,8 @@ Graduate Certificate, Applied Statistics
 
 B.S., Political Science
 
+</br></br>
+
 ## Tech Skills
 
 R | Python | SQL | Git | Azure
