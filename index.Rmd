@@ -7,7 +7,7 @@ links:
   - label: Meet Dustin
     url: "content/dustin.html"
   - label: Email Us
-    url: "mailto:dustin@ridgelinerva.com;matt@ridgelinerva.com"
+    url: "mailto:info@ridgelinerva.com"
   - label: Meet Matt
     url: "content/matt.html"
 
@@ -19,7 +19,7 @@ output:
  
 ## Who we are
 
-We are a small analytics firm based in Richmond, Virginia, with more than 15 years of data science/analytic experience between us.  We enjoy working with data to find insights, solve business problems, and build tools that help people work more efficiently. 
+We are a small analytics firm based in Richmond, Virginia.  We enjoy working with data to solve business problems and build tools that help people work more efficiently. 
 
 Our aim is to **deliver data solutions** that make organizations **more efficient** and provide **business insights**.  
 
@@ -39,4 +39,7 @@ Our aim is to **deliver data solutions** that make organizations **more efficien
 
 </br>
 
+## Contact us
+
+Reach out via the `Email Us` link on this page or send an email to `info@ridgelineRVA.com`
 
