@@ -6,8 +6,8 @@ links:
   #   url: "https://github.com/Ridgeline-Analytics/"
   - label: Meet Dustin
     url: "content/dustin.html"
-  - label: Email Dustin & Matt
-    url: "mailto:dustin@ridgelinerva.com;matt@ridgelinerva.com"
+  - label: Email Us
+    url: "mailto:info@ridgelinerva.com"
   - label: Meet Matt
     url: "content/matt.html"
 
@@ -19,21 +19,27 @@ output:
  
 ## Who we are
 
-We are a small analytics and data science firm based out of Richmond, VA. But let's be honest, we are serious nerds. Serious nerds who want to help you gain insights and solve problems.
+We are a small analytics firm based in Richmond, Virginia.  We enjoy working with data to solve business problems and build tools that help people work more efficiently. 
+
+Our aim is to **deliver data solutions** that make organizations **more efficient** and provide **business insights**.  
 
 </br>
 
 ## What we do
 
-We are data scientists! We believe in the cross-disciplinary approach, meaning we have learned a lot about a lot of different things. 
+  * **Automation** - Automate routine tasks, report generation, data visualization
 
- We analyze data and build machine learning models. We write reports but also deploy machine learning models to the cloud. Not sure what all that means?  Don't worry, that's what we are here for.  
+  * **Analysis & Assessment** - Gain insights into past business performance 
+  
+  * **Machine learning / Predictive modeling** - Build tools to help you make better business decisions
+   
+  * **Deploy Solutions** - Utilize cloud services (Azure, AWS, etc.) to deliver solutions 
 
-**This makes us great for helping companies who aren't quite ready to hire data scientists full-time, but want to do more with data.**
+  * **Build data science capabilities** - Does your company want to do more with data but isn't ready to hire data scientists full-time?  We can setup a proof of concept or help you take that first step.
 
 </br>
 
-## How to get started
+## Contact us
 
-Click the button to the left and send us an email.  Or contact us at dustin@ridgelineRVA.com or matt@ridgelineRVA.com.
+Reach out via the ***Email Us*** link or send an email to `info@ridgelineRVA.com`
 
