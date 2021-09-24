@@ -1,13 +1,13 @@
 ---
-title: "Dustin Landers"
-image: "../images/dustin.jpg"
+title: "Michael Kolonay"
+image: "../images/michael.jpg"
 links:
   - label: GitHub
     url: "https://github.com/mtnman38"
   - label: LinkedIn
-    url: 'https://www.linkedin.com/in/dustylandy/'
+    url: 'https://www.linkedin.com/in/michael-kolonay-2534b89/'
   - label: Email
-    url: "mailto:dustin@ridgelinerva.com"
+    url: "mailto:michael@ridgelinerva.com"
 output:
   postcards::trestles:
     css: "../css/postcard_styles.css"
