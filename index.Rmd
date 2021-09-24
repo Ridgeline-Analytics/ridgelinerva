@@ -6,11 +6,10 @@ links:
   #   url: "https://github.com/Ridgeline-Analytics/"
   - label: Meet Dustin
     url: "content/dustin.html"
-  - label: Email Us
-    url: "mailto:info@ridgelinerva.com"
+  - label: Meet Michael
+    url: "content/michael.html"
   - label: Meet Matt
     url: "content/matt.html"
-
   # - label: Check out our R tutorials
   #   url: "https://youtube.com"
 output:
@@ -41,5 +40,5 @@ Our aim is to **deliver data solutions** that make organizations **more efficien
 
 ## Contact us
 
-Reach out via the ***Email Us*** link or send an email to `info@ridgelineRVA.com`
+Email us at <a href="mailto:info@ridgelineRVA.com">info@ridgelineRVA.com</a> for more information.
 

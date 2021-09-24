@@ -4,6 +4,8 @@ image: "../images/dustin.jpg"
 links:
   - label: GitHub
     url: "https://github.com/mtnman38"
+  - label: LinkedIn
+    url: 'https://www.linkedin.com/in/dustylandy/'
   - label: Email
     url: "mailto:dustin@ridgelinerva.com"
 output:

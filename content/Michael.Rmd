@@ -1,0 +1,48 @@
+---
+title: "Michael Kolonay"
+image: "../images/michael.jpg"
+links:
+  - label: GitHub
+    url: "https://github.com/https://github.com/mkolonay"
+  - label: LinkedIn
+    url: 'https://www.linkedin.com/in/michael-kolonay-2534b89/'
+  - label: Email
+    url: "mailto:michael@ridgelinerva.com"
+output:
+  postcards::trestles:
+    css: "../css/postcard_styles.css"
+---
+
+<div id="icon-list">
+  <ul class="list-inline">
+    <li class="list-inline-item">
+      <a href="../index.html">
+        <button type="button" class="btn btn-outline-dark mb-2">
+          Return to homepage
+        </button>
+      </a>
+    </li>
+  </ul>
+</div> 
+  
+## Bio
+
+Michael is currently a Student at the UVA School for Data Science at University of Virginia where he is busy learning how to effectively apply data science to business problems. Before coming to data science, he was a lead developer and oversaw many large application development projects. He has a wide range of experience from building out geospatial datasets to managing complex SQL applications and ETL processes to creating cloud applications for his clients. He enjoys finding solutions that make everyone happy and particularly loves that moment when clients go, ‘Oh, that’s cool’.
+
+</br></br>
+
+## Education
+
+**University of Virginia** | Charlottesville, VA
+
+M.S., Data Science  &  B.A., Biology
+
+**Virginia Commonwealth University** | Richmond, VA
+
+M.S., Urban and Regional Planning  &  GIS Certificate
+
+</br></br>
+
+## Tech Skills
+
+Azure |AWS | GIS | ASP.NET | C# | JavaScript | REST APIs | SQL Server | Teradata | Cosmos DB | Azure Tables | Python 
