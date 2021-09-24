@@ -3,7 +3,7 @@ title: "Michael Kolonay"
 image: "../images/michael.jpg"
 links:
   - label: GitHub
-    url: "https://github.com/https://github.com/mkolonay"
+    url: "https://github.com/mkolonay"
   - label: LinkedIn
     url: 'https://www.linkedin.com/in/michael-kolonay-2534b89/'
   - label: Email
