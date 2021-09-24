@@ -3,7 +3,7 @@ title: "Michael Kolonay"
 image: "../images/michael.jpg"
 links:
   - label: GitHub
-    url: "https://github.com/mtnman38"
+    url: "https://github.com/https://github.com/mkolonay"
   - label: LinkedIn
     url: 'https://www.linkedin.com/in/michael-kolonay-2534b89/'
   - label: Email
@@ -27,22 +27,22 @@ output:
   
 ## Bio
 
-Dustin studied social science and statistics and found his way in to the data science field after working in plant genetics for a little while. He considers himself a problem-solving enthusiast and a pro debugger. He may be a little old-fashioned, but he still believe we can make the world a better place through a gentle application of curiosity and a humble respect for the truth.
+Michael is currently a Student at the UVA School for Data Science at University of Virginia where he is busy learning how to effectively apply data science to business problems. Before coming to data science, he was a lead developer and oversaw many large application development projects. He has a wide range of experience from building out geospatial datasets to managing complex SQL applications and ETL processes to creating cloud applications for his clients. He enjoys finding solutions that make everyone happy and particularly loves that moment when clients go, ‘Oh, that’s cool’.
 
 </br></br>
 
 ## Education
 
-**University of North Carolina Wilmington** | Wilmington, NC
+**University of Virginia** | Charlottesville, VA
 
-Graduate Certificate, Applied Statistics
+M.S., Data Science  &  B.A., Biology
 
-**Appalachian State University** | Boone, NC
+**Virginia Commonwealth University** | Richmond, VA
 
-B.S., Political Science
+M.S., Urban and Regional Planning  &  GIS Certificate
 
 </br></br>
 
 ## Tech Skills
 
-R | Python | SQL | Git | Azure
+Azure |AWS | GIS | ASP.NET | C# | JavaScript | REST APIs | SQL Server | Teradata | Cosmos DB | Azure Tables | Python 
