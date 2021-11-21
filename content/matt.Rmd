@@ -32,11 +32,12 @@ output:
 ## Bio
 
 After 10+ years working in public relations / government services, I moved into 
-data science. I like working with business users to find simple ways to improve
-their workflow.
+data science after realizing I preferred working with data to summarizing it. I 
+like working with clients to improve their workflow and provide insights 
+into their business.
 
-I largely work in R and Python, but dabble with some front end development like
-HTML and CSS. Secretly, I also enjoy using Excel. 
+I largely work in R and Python, but dabble with some front end development such
+as HTML and CSS. Secretly, I also enjoy using Excel. 
 
 </br>
 
@@ -55,4 +56,4 @@ B.S., Political Science
 
 ## Tech Skills & Tools
 
-R | Python | SQL | Git | Azure 
+R | Python | SQL | Git & GitHub | Azure & AWS | Predictive Modeling | Data Analysis & Visualization
